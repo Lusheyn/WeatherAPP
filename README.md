@@ -1,5 +1,5 @@
 # WeatherAPP
-Simple application with the use of OpenWeathermAP, tailwindCSS and Vite.
+Simple application with the use of OpenWeathermAPI, tailwindCSS and Vite.
 
 
 
